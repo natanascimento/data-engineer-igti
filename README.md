@@ -1,2 +1,2 @@
-# data-engineering-igti
-Contents from the Data Engineering course on IGTI
+# data-engineer-igti
+IGTI Data Engineer Bootcamp Projects
